@@ -27,13 +27,9 @@ A production-grade **retail sales intelligence dashboard** built on the Maven Ma
 
 ---
 
-## 📂 Data Model
+## 📂 Data Model(Star Schema)
 
-> 📸 *Export your model view from Power BI Desktop and add it here*
-
-```
 ![Data Model](Data_Model.png)
-```
 
 | Table | Type | Rows (approx) | Key Columns |
 |---|---|---|---|
@@ -288,8 +284,8 @@ maven-market-dashboard/
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn](https://linkedin.com) · [Portfolio](https://yourportfolio.com) · [GitHub](https://github.com)
+**[Mohammed Ehsan]**
+[LinkedIn](https://www.linkedin.com/in/mohammed-ehsan-a90875251/) · [GitHub]([https://github.](https://github.com/Ehzaan))
 
 ---
 
